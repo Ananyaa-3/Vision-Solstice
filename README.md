@@ -10,7 +10,7 @@ Features:
 
 Installation:
 1. Clone the repository to your local machine:
-   git clone https://github.com/your-username/vision-solstice.git
+   git clone https://github.com/ItsAnanya123/Vision-Solstice
 
 2. Navigate to the project directory:
    cd vision-solstice
